@@ -13,7 +13,7 @@ Component Type | Details
 -------:|:-------------------------
 CPU     | 2.0GHz Octa-Core MT6755 (Helio P10)
 GPU     | Mali-T860
-Memory  | 4GB RAM
+Memory  | 2GB RAM
 Shipped Android Version | 5.1
 Storage | 16GB
 
